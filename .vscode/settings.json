@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "regex": "cpp",
+        "permutationofstring,cpp": "cpp",
+        "initializer_list": "cpp",
+        "sstream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
